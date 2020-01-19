@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      menu:
+        - text: "No projects are available yet"
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
