@@ -1,8 +1,13 @@
-name: "my-website"
+name: "Andrew H. Farkas"
+output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Andrew H. Farkas"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'     
