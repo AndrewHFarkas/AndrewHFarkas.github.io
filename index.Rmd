@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="images/AndrewHFarkasArch_inv.JPG" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/AndrewHFarkasArch.JPG" style="width:40%; border:5px solid; margin-right: 20px" align="left">
 
 # Welcome to my website! 
 
