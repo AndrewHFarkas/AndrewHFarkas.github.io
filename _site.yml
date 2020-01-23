@@ -5,8 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "CV"
+      menu:
+        - text: "CV is not yet available"
     - text: "Projects"
       menu:
         - text: "No projects are available yet"

@@ -7,10 +7,17 @@
 ## Pardon the sparsity, it is new.
 </center>
 
-<img src="images/AndrewHFarkasArch.JPG" style="width:40%; border:5px solid; margin-left: 20px" align="right">
+
+---
+
+
+<img src="images/AndrewHFarkasArch.JPG" style="width:20%; border:5px solid; margin-left: 20px" align="right">  
+
 
 I study the psychophysiology associated with emotion. My work will further understanding of the neuronal mechanisms of emotion and perception. As a mentor and guest lecturer, I work with UGA undergraduates to better their educational experiences. 
 
+
+#
 <center>
 ## Follow me on twitter for updates on my work!
 </center>
